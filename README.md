@@ -51,4 +51,4 @@ Utilizar comando shit+enter
 
 Segue mesmo padrão de imagens:
 
-[Link Google](www.google.com.br)
+[Link Google](https://www.google.com.br)
