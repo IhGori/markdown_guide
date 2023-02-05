@@ -61,3 +61,16 @@ Para inserir uma imagem com link dentro:
 Só incluir dentro do padrão da imagem o link
 
 [![Logo Google](https://www.logotipo.pt/wp-content/uploads/2016/10/Evolu%C3%A7%C3%A3o-do-log%C3%B3tipo-da-Google-2016.jpg)](https://www.google.com.br)
+
+## Inserindo Código Fonte
+
+Utilizando entre 3 aspas aparecerá como código:
+
+Ex: Código de soma
+
+'''def soma(){
+    a = 2;
+    b = 3
+    soma = a + b;
+    print(soma);
+}'''
