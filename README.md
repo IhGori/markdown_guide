@@ -78,5 +78,5 @@ def soma(){
 ```
 
 ## Task List
-- [ x ] Concluído
-- [ ] Não-concluído
+- [x] Concluído
+- [] Não-concluído
