@@ -68,9 +68,10 @@ Utilizando entre 3 aspas aparecerá como código:
 
 Ex: Código de soma
 
-'''def soma(){
+```
+def soma(){
     a = 2;
-    b = 3
+    b = 3;
     soma = a + b;
     print(soma);
-}'''
+} ```
