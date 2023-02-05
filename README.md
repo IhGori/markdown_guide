@@ -35,7 +35,7 @@ Pode-se assumir como listas ordenadas ou não-ordenadas:
 * Listas Não-Ordenadas
 
 ## Adicionando Imagem
-
-Pode-se inserir via comandos: ![Nome DA](link)
-
+Imagem local:
 ![Logo Django](django-logo.png)
+Imagem externa:
+![Logo Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
