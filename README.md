@@ -28,7 +28,8 @@ Para escrever em itálico pode-se utilizar dos comandos: * texto * ou _ texto _ 
 ## Listas 
 
 Pode-se assumir como listas ordenadas ou não-ordenadas:
-    1. Listas Ordenadas
-    2. Listas Não-Ordenadas
+
+* Listas Ordenadas
+* Listas Não-Ordenadas
 
 
