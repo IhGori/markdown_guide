@@ -35,9 +35,20 @@ Pode-se assumir como listas ordenadas ou não-ordenadas:
 * Listas Não-Ordenadas
 
 ## Adicionando Imagem
+
 Imagem local:
 
 ![Logo Django](django-logo.png)
 Imagem externa:
 
 ![Logo Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
+
+## Espaçamento de linhas
+
+Utilizar comando shit+enter
+
+# Links
+
+Segue mesmo padrão de imagens:
+
+[Link Google](www.google.com.br)
