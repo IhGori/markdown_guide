@@ -52,3 +52,6 @@ Utilizar comando shit+enter
 Segue mesmo padrão de imagens:
 
 [Link Google](https://www.google.com.br)
+
+Para colocar o link como texto se repete o link no lugar do texto
+[https://www.google.com.br](https://www.google.com.br)
