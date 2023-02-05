@@ -34,4 +34,6 @@ Pode-se assumir como listas ordenadas ou não-ordenadas:
     2. Item 2
 * Listas Não-Ordenadas
 
+## Adicionando Imagem
 
+Pode-se inserir via comandos: ![Logo Django](django-logo.png)
