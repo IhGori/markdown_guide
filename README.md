@@ -38,7 +38,7 @@ Pode-se assumir como listas ordenadas ou não-ordenadas:
 
 Imagem local:
 
-![Logo Django](django-logo.png)
+![Logo Django](assets/img/django-logo.png)
 Imagem externa:
 
 ![Logo Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
