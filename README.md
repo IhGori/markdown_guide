@@ -13,3 +13,22 @@ Segue mesmo princípio dos elementos de cabeçalho do HTML: h1, h2, h3, h4, h5 e
 ##### h5
 ###### h6
 
+## Negrito
+
+Para escrever em negrito pode-se utilizar dos comandos: ** texto ** ou __ texto __ =>  Sem o espaçamento com o texto
+
+## Itálico 
+
+Para escrever em itálico pode-se utilizar dos comandos: * texto * ou _ texto _ => Sem o espaçamento com o texto
+
+# Combinação Negrito e Itálico
+
+É possível utilizar uma **_combinação_** com: ** _ texto _ ** => Sem o espaçamento
+
+## Listas 
+
+Pode-se assumir como listas ordenadas ou não-ordenadas:
+    1. Listas Ordenadas
+    2. Listas Não-Ordenadas
+
+
